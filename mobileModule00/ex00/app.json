@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "ex00",
+    "slug": "ex00",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.ex00"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.ex00"
+    }
+  }
+}
