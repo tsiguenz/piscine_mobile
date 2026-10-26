@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ex02",
+    "slug": "ex02",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.ex02"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.ex02"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
